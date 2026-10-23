@@ -1,0 +1,16 @@
+# Installed via `pip install -e ".[dev]"` (see pyproject.toml)
+langgraph>=0.2.0
+langchain-core>=0.3.0
+langchain-google-genai>=2.0.0
+pydantic>=2.7.0
+pydantic-settings>=2.2.0
+httpx>=0.27.0
+tenacity>=8.2.0
+pypdf>=4.2.0
+fpdf2>=2.7.8
+opentelemetry-api>=1.24.0
+opentelemetry-sdk>=1.24.0
+rich>=13.7.0
+python-dotenv>=1.0.1
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
